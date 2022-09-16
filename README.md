@@ -1,4 +1,11 @@
-### Hi there 👋
+# Olá, meu nome é Ícaro Nogueira!
+### Bem-vindo ao meu perfil Github :zap:
+* :books: Estudante de Técnico em Informática para Internet - QI Faculdade & Escola Técnica 
+* :computer: Estudante de Linguagens Web como PHP, JS, HTML, CSS e outras 
+* 👩‍💻 Desenvolvedor Web Full-Stack - Invia Certificação Digital
+
+*Em construção*
+
 
 <!--
 **icaro-nog/icaro-nog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
