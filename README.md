@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4
+https://www.alura.com.br/artigos/escrever-bom-readme?gclid=EAIaIQobChMIrMTq072Z-gIVYkFIAB269QhIEAAYASAAEgIFd_D_BwE
+https://gist.github.com/rxaviers/7360908
+https://github.com/camilafernanda
 -->
