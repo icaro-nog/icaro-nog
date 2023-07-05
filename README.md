@@ -4,8 +4,7 @@
 Amante de tecnologia desde que me conheço por gente ❤
 ##
 
-* 💻 Estudante de Técnico em Informática para Internet na <a href="https://qi.edu.br">QI Faculdade & Escola Técnica</a>
-* 👩‍💻 Desenvolvedor Web Full-Stack na <a href="https://invia.com.br">Invia Certificação Digital</a>
+* 👩‍💻 Web Developer at <a href="https://brudam.com.br/">Brudam</a>
 
 <br>
 
