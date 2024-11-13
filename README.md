@@ -4,8 +4,6 @@
 Amante de tecnologia desde que me conheço por gente ❤
 ##
 
-* 👩‍💻 Web Developer at <a href="https://brudam.com.br/">Brudam</a>
-
 <br>
 
 <div align="center" style="display: flex; flex-direction: row;">
