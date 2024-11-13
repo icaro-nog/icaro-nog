@@ -1,8 +1,4 @@
 # Bem-vindo ao meu perfil Github! 🪐
-### Eu sou o Ícaro Nogueira
-
-Amante de tecnologia desde que me conheço por gente ❤
-##
 
 <br>
 
@@ -18,7 +14,7 @@ Amante de tecnologia desde que me conheço por gente ❤
  <br><br>
 <div align="" style="display: inline_block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img height="70" width="80" src="https://icongr.am/devicon/php-original.svg?size=128&color=dd4814" />
   &nbsp;
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   &nbsp;
@@ -28,7 +24,15 @@ Amante de tecnologia desde que me conheço por gente ❤
   &nbsp;
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />        
+  <img height="50" width="60" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=f1392f" />
+  &nbsp;
+  <img height="50" width="60" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
+  &nbsp;
+  <img height="50" width="60" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+  &nbsp;
+  <img height="50" width="60" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  &nbsp;
+  <img height="50" width="60" src="https://icongr.am/devicon/codeigniter-plain.svg?size=128&color=dd4814" />
 </div>
 
 <br><br>
